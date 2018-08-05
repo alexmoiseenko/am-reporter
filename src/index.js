@@ -17,7 +17,7 @@ export default function () {
 
         reportTestDone (name, testRunInfo) {
             name = `${this.currentFixtureName} - ${name}`;
-            const title = `${name} (Duration: ${testRunInfo.durationMs / 1000} + s)`;
+            const title = `${name} (Duration: ${testRunInfo.durationMs / 1000} s)`;
             
             this.write(title).newline();
         },

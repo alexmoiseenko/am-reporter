@@ -1,6 +1,6 @@
 {
   "name": "testcafe-reporter-am-reporter",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "am-reporter TestCafe reporter plugin.",
   "repository": "https://github.com/alexmoiseenko/testcafe-reporter-am-reporter",
   "author": {
